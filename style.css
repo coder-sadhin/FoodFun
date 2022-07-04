@@ -39,6 +39,47 @@
     border: 2px solid violet;
 }
 
+/* this is recipics sec */
+.reci-text-sec {
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.reci-main-div {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.half-wieth {
+    box-shadow: 5px 5px 8px 5px #e7e5e5;
+    border: 1 px solid mediumaquamarine;
+    border-radius: 5px;
+    height: 300px;
+    width: 30%;
+    margin: 10px 15px 10px 10px;
+    padding: 5px;
+    background-color: #ff99cc;
+}
+
+/* this is last section */
+#fainal-section {
+    height: 150px;
+    display: flex;
+}
+
+.fainal-sec-main {
+    width: 90%;
+    height: 50px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 8px 5px #d8d1d1;
+}
+
 /*this is fotter section*/
 #fot-sec {
     width: 100%;
